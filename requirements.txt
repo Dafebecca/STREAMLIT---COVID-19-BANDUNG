@@ -1,0 +1,17 @@
+# Numpy --> It helps with statistical data analysis
+Numpy
+
+# Pandas --> It helps manipulate data
+Pandas
+
+# Streamlit --> It helps to create interactive websites
+Streamlit
+
+# Matplotlib --> It helps create visualizations
+Matplotlib
+
+# Scipy --> It helps with numerical calculations
+scipy
+
+# Scikit learn --> It helps with modeling, evaluation, and data processing
+scikit-learn
